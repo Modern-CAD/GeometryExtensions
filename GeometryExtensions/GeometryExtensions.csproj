@@ -37,23 +37,23 @@
   </PropertyGroup>
   <ItemGroup>
     <Reference Include="AcCoreMgd">
-      <HintPath>C:\ObjectARX 2017\inc\AcCoreMgd.dll</HintPath>
+      <HintPath>ACAD SDK\AcCoreMgd.dll</HintPath>
       <Private>False</Private>
     </Reference>
     <Reference Include="AcDbMgd">
-      <HintPath>C:\ObjectARX 2017\inc\AcDbMgd.dll</HintPath>
+      <HintPath>ACAD SDK\AcDbMgd.dll</HintPath>
       <Private>False</Private>
     </Reference>
     <Reference Include="acdbmgdbrep">
-      <HintPath>C:\ObjectARX 2017\inc\acdbmgdbrep.dll</HintPath>
+      <HintPath>ACAD SDK\acdbmgdbrep.dll</HintPath>
       <Private>False</Private>
     </Reference>
     <Reference Include="AcMgd">
-      <HintPath>C:\ObjectARX 2017\inc\AcMgd.dll</HintPath>
+      <HintPath>ACAD SDK\AcMgd.dll</HintPath>
       <Private>False</Private>
     </Reference>
     <Reference Include="AcMPolygonMGD">
-      <HintPath>F:\Program Files\Autodesk\AutoCAD 2024\AcMPolygonMGD.dll</HintPath>
+      <HintPath>ACAD SDK\AcMPolygonMGD.dll</HintPath>
       <Private>False</Private>
     </Reference>
     <Reference Include="System" />
