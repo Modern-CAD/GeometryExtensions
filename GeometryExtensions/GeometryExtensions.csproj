@@ -96,6 +96,13 @@
     <Compile Include="Vector3dExtension.cs" />
     <Compile Include="ViewportExtension.cs" />
   </ItemGroup>
+  <ItemGroup>
+    <None Include="ACAD SDK\AcCoreMgd.dll" />
+    <None Include="ACAD SDK\AcDbMgd.dll" />
+    <None Include="ACAD SDK\acdbmgdbrep.dll" />
+    <None Include="ACAD SDK\AcMgd.dll" />
+    <None Include="ACAD SDK\AcMPolygonMGD.dll" />
+  </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
        Other similar extension points exist, see Microsoft.Common.targets.
